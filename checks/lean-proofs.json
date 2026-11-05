@@ -1,0 +1,26 @@
+[
+  {
+    "file": "checks/lean/CurtisReinerII/Localization.lean",
+    "declarations": [
+      "CurtisReinerII.Localization.common_defect_cancellation",
+      "CurtisReinerII.Localization.relative_boundary_sign"
+    ],
+    "book": "Section 38D: common intersection defect in (38.64) and the sign of the final boundary representative in the proof of (38.61).",
+    "limitations": "Only additive-group deductions are formalized. The existence and finiteness of the lattice intersections, the module exact sequences, the Grothendieck group and the boundary map are mathematical inputs and are not constructed by these declarations.",
+    "passages": [
+      "eq:lattice-relative-class-additivity",
+      "th:heller-reiner-localization"
+    ]
+  },
+  {
+    "file": "checks/lean/CurtisReinerII/Whitehead.lean",
+    "declarations": [
+      "CurtisReinerII.Whitehead.block_factorization"
+    ],
+    "book": "Section 40C: the four-factor elementary block identity (40.25).",
+    "limitations": "The identity is proved over an arbitrary unital ring, including a noncommutative endomorphism ring. It does not construct the stable general linear group or prove the identification of its abelianization with the determinantal group.",
+    "passages": [
+      "eq:whitehead-block-factorization"
+    ]
+  }
+]

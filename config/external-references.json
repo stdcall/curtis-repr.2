@@ -1,0 +1,7522 @@
+{
+  "schema": 1,
+  "volume": "I",
+  "edition": {
+    "release": "2026-11-03.9",
+    "commit": "73e3298e2e9f362d2fcbddd9235137c9732c1213",
+    "filename": "curtis-repr.1.pdf",
+    "sha256": "d55cdce24e41ad74d2f5062028d5329f6ede1061caf49c7dc9a8a1dbe853efdf",
+    "pages": 715
+  },
+  "geometry": {
+    "width_pt": 498.89764,
+    "height_pt": 708.66144
+  },
+  "targets": {
+    "i:ch:group-representations-character-theory": {
+      "kind": "numbered",
+      "family": "ch",
+      "number": [
+        1
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 181,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "161"
+    },
+    "i:ch:integral-representations": {
+      "kind": "numbered",
+      "family": "ch",
+      "number": [
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 457,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "437"
+    },
+    "i:ch:introduction": {
+      "kind": "unnumbered",
+      "family": "ch",
+      "number": null,
+      "suffix": "",
+      "name": "Introduction",
+      "destination": {
+        "page": 21,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "1"
+    },
+    "i:ch:local-global-integral-representations": {
+      "kind": "numbered",
+      "family": "ch",
+      "number": [
+        4
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 538,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "518"
+    },
+    "i:ch:modular-representations": {
+      "kind": "numbered",
+      "family": "ch",
+      "number": [
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 354,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "334"
+    },
+    "i:ch:notation": {
+      "kind": "unnumbered",
+      "family": "ch",
+      "number": null,
+      "suffix": "",
+      "name": "Notation",
+      "destination": {
+        "page": 15,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "xvii"
+    },
+    "i:cor:adams-ring-endomorphisms": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        12,
+        10
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 284,
+        "left": 0,
+        "top": 144.35144000000003,
+        "zoom": null
+      },
+      "folio": "264"
+    },
+    "i:cor:brauer-character-composition-factors": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        17,
+        10
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 373,
+        "left": 0,
+        "top": 350.83144,
+        "zoom": null
+      },
+      "folio": "353"
+    },
+    "i:cor:brauer-conjugacy-orbits": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        11,
+        10
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 240,
+        "left": 0,
+        "top": 253.93143999999995,
+        "zoom": null
+      },
+      "folio": "220"
+    },
+    "i:cor:brauer-number-simple-modules": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        17,
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 373,
+        "left": 0,
+        "top": 161.06143999999995,
+        "zoom": null
+      },
+      "folio": "353"
+    },
+    "i:cor:cartan-decomposition-gram-matrix": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        18,
+        10
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 383,
+        "left": 0,
+        "top": 419.76144,
+        "zoom": null
+      },
+      "folio": "363"
+    },
+    "i:cor:complete-local-module-cancellation": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        30,
+        7
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 541,
+        "left": 0,
+        "top": 441.32144,
+        "zoom": null
+      },
+      "folio": "521"
+    },
+    "i:cor:cyclic-sylow-two-normal-complement": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        13,
+        22
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 305,
+        "left": 0,
+        "top": 449.58144,
+        "zoom": null
+      },
+      "folio": "285"
+    },
+    "i:cor:decomposition-map-surjective": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        18,
+        14
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 384,
+        "left": 0,
+        "top": 422.90144,
+        "zoom": null
+      },
+      "folio": "364"
+    },
+    "i:cor:decomposition-matrix-primitive-columns": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        18,
+        17
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 384,
+        "left": 0,
+        "top": 156.73144000000002,
+        "zoom": null
+      },
+      "folio": "364"
+    },
+    "i:cor:finite-subring-contained-in-maximal-order": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        26,
+        9
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 492,
+        "left": 0,
+        "top": 271.50143999999995,
+        "zoom": null
+      },
+      "folio": "472"
+    },
+    "i:cor:fixed-point-free-permutation-kernel": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        14,
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 308,
+        "left": 0,
+        "top": 477.92143999999996,
+        "zoom": null
+      },
+      "folio": "288"
+    },
+    "i:cor:galois-orbits-simple-modules": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        7,
+        19
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 148,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "128"
+    },
+    "i:cor:genus-addition": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        31,
+        7
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 562,
+        "left": 0,
+        "top": 119.65143999999998,
+        "zoom": null
+      },
+      "folio": "542"
+    },
+    "i:cor:genus-direct-sum-decomposition": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        31,
+        13
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 565,
+        "left": 0,
+        "top": 462.36143999999996,
+        "zoom": null
+      },
+      "folio": "545"
+    },
+    "i:cor:genus-multiple-decomposition": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        31,
+        14
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 565,
+        "left": 0,
+        "top": 416.64144,
+        "zoom": null
+      },
+      "folio": "545"
+    },
+    "i:cor:green-correspondence-fixed-vertex": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        20,
+        8
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 415,
+        "left": 0,
+        "top": 602.5714399999999,
+        "zoom": null
+      },
+      "folio": "395"
+    },
+    "i:cor:group-algebra-multiplicity-free-extension": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        7,
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 142,
+        "left": 0,
+        "top": 304.00143999999995,
+        "zoom": null
+      },
+      "folio": "122"
+    },
+    "i:cor:group-ring-self-contragredient": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        10,
+        29
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 224,
+        "left": 0,
+        "top": 141.96143999999993,
+        "zoom": null
+      },
+      "folio": "204"
+    },
+    "i:cor:indecomposable-endomorphism-idempotents": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        6,
+        4
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 120,
+        "left": 0,
+        "top": 465.24144,
+        "zoom": null
+      },
+      "folio": "100"
+    },
+    "i:cor:indecomposable-projective-top": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        6,
+        9
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 123,
+        "left": 0,
+        "top": 537.62144,
+        "zoom": null
+      },
+      "folio": "103"
+    },
+    "i:cor:induction-tensor-identity": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        10,
+        20
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 221,
+        "left": 0,
+        "top": 494.16143999999997,
+        "zoom": null
+      },
+      "folio": "201"
+    },
+    "i:cor:ito-character-degree": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        11,
+        33
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 261,
+        "left": 0,
+        "top": 265.17143999999996,
+        "zoom": null
+      },
+      "folio": "241"
+    },
+    "i:cor:krull-schmidt-cancellation": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        6,
+        15
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 126,
+        "left": 0,
+        "top": 333.93143999999995,
+        "zoom": null
+      },
+      "folio": "106"
+    },
+    "i:cor:maximal-subfield-degree": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        7,
+        22
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 148,
+        "left": 0,
+        "top": 147.50144,
+        "zoom": null
+      },
+      "folio": "128"
+    },
+    "i:cor:modular-representation-integral-form": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        16,
+        14
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 361,
+        "left": 0,
+        "top": 491.34144,
+        "zoom": null
+      },
+      "folio": "341"
+    },
+    "i:cor:modular-system-sufficiently-large-fields": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        17,
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 369,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "349"
+    },
+    "i:cor:normal-p-quotient-indecomposable-induction": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        19,
+        23
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 410,
+        "left": 0,
+        "top": 219.01144,
+        "zoom": null
+      },
+      "folio": "390"
+    },
+    "i:cor:order-reduced-characteristic-integral": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        26,
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 490,
+        "left": 0,
+        "top": 362.10143999999997,
+        "zoom": null
+      },
+      "folio": "470"
+    },
+    "i:cor:p-group-ring-local-base": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        5,
+        25
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 114,
+        "left": 0,
+        "top": 214.85143999999997,
+        "zoom": null
+      },
+      "folio": "94"
+    },
+    "i:cor:p-group-transitive-permutation-indecomposable": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        19,
+        25
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 411,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "391"
+    },
+    "i:cor:perfect-field-galois-splitting-field": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        7,
+        14
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 144,
+        "left": 0,
+        "top": 346.68143999999995,
+        "zoom": null
+      },
+      "folio": "124"
+    },
+    "i:cor:prime-to-p-brauer-ordinary-characters": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        18,
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 383,
+        "left": 0,
+        "top": 266.55143999999996,
+        "zoom": null
+      },
+      "folio": "363"
+    },
+    "i:cor:projective-cover-radical-quotient": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        6,
+        22
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 129,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "109"
+    },
+    "i:cor:projective-modules-composition-factors": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        21,
+        23
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 446,
+        "left": 0,
+        "top": 354.38144,
+        "zoom": null
+      },
+      "folio": "426"
+    },
+    "i:cor:semiperfect-projective-cover-properties": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        6,
+        25
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 130,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "110"
+    },
+    "i:cor:swan-projective-lattice-left-ideal-decomposition": {
+      "kind": "numbered",
+      "family": "cor",
+      "number": [
+        32,
+        12
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 588,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "568"
+    },
+    "i:def:brauer-character-table-data": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        18,
+        18
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 385,
+        "left": 0,
+        "top": 168.97143999999992,
+        "zoom": null
+      },
+      "folio": "365"
+    },
+    "i:def:cartan-homomorphism-matrix": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        18,
+        4
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 380,
+        "left": 0,
+        "top": 383.42143999999996,
+        "zoom": null
+      },
+      "folio": "360"
+    },
+    "i:def:character-table-data": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        9,
+        25
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 195,
+        "left": 0,
+        "top": 378.19143999999994,
+        "zoom": null
+      },
+      "folio": "175"
+    },
+    "i:def:decomposition-map-matrix": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        16,
+        20
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 364,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "344"
+    },
+    "i:def:family-relative-projectivity": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        20,
+        1
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 414,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "394"
+    },
+    "i:def:g-set": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        1,
+        18
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 28,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "8"
+    },
+    "i:def:green-admissible-triple": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        20,
+        4
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 414,
+        "left": 0,
+        "top": 330.56143999999995,
+        "zoom": null
+      },
+      "folio": "394"
+    },
+    "i:def:grothendieck-category-group": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        16,
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 356,
+        "left": 0,
+        "top": 474.90144,
+        "zoom": null
+      },
+      "folio": "336"
+    },
+    "i:def:group-presentation": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        1,
+        23
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 30,
+        "left": 0,
+        "top": 643.64144,
+        "zoom": null
+      },
+      "folio": "10"
+    },
+    "i:def:hecke-algebra": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        11,
+        22
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 253,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "233"
+    },
+    "i:def:lattice-vertex-source": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        19,
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 401,
+        "left": 0,
+        "top": 497.69143999999994,
+        "zoom": null
+      },
+      "folio": "381"
+    },
+    "i:def:local-index-capacity-ramification": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        7,
+        46
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 158,
+        "left": 0,
+        "top": 181.70143999999993,
+        "zoom": null
+      },
+      "folio": "138"
+    },
+    "i:def:outer-inner-tensor-products": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        10,
+        15
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 218,
+        "left": 0,
+        "top": 232.63144,
+        "zoom": null
+      },
+      "folio": "198"
+    },
+    "i:def:ring-grothendieck-projective-groups": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        16,
+        5
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 356,
+        "left": 0,
+        "top": 166.20143999999993,
+        "zoom": null
+      },
+      "folio": "336"
+    },
+    "i:def:tensor-induction": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        13,
+        5
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 297,
+        "left": 0,
+        "top": 411.55143999999996,
+        "zoom": null
+      },
+      "folio": "277"
+    },
+    "i:def:trivial-intersection-set": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        14,
+        16
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 314,
+        "left": 0,
+        "top": 431.85143999999997,
+        "zoom": null
+      },
+      "folio": "294"
+    },
+    "i:def:universal-central-extension": {
+      "kind": "numbered",
+      "family": "def",
+      "number": [
+        11,
+        35
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 264,
+        "left": 0,
+        "top": 553.93144,
+        "zoom": null
+      },
+      "folio": "244"
+    },
+    "i:eq:ambiguous-lattice-rank-decomposition": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        28,
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 522,
+        "left": 0,
+        "top": 625.51144,
+        "zoom": null
+      },
+      "folio": "502"
+    },
+    "i:eq:balanced-units-elementary-factorization": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        34,
+        20
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 627,
+        "left": 0,
+        "top": 560.3614399999999,
+        "zoom": null
+      },
+      "folio": "607"
+    },
+    "i:eq:bimodule-derivation": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        25,
+        7
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 474,
+        "left": 0,
+        "top": 280.43143999999995,
+        "zoom": null
+      },
+      "folio": "454"
+    },
+    "i:eq:bimodule-first-cohomology": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        25,
+        9
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 474,
+        "left": 0,
+        "top": 190.35144000000003,
+        "zoom": null
+      },
+      "folio": "454"
+    },
+    "i:eq:brauer-character-matrix-identities": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        18,
+        21
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 386,
+        "left": 0,
+        "top": 366.78144,
+        "zoom": null
+      },
+      "folio": "366"
+    },
+    "i:eq:central-character-multiplicativity": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        9,
+        30
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 197,
+        "left": 0,
+        "top": 199.68143999999995,
+        "zoom": null
+      },
+      "folio": "177"
+    },
+    "i:eq:character-hermitian-scalar-product": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        9,
+        22
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 193,
+        "left": 0,
+        "top": 438.16143999999997,
+        "zoom": null
+      },
+      "folio": "173"
+    },
+    "i:eq:contragredient-hom-duality": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        10,
+        32
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 226,
+        "left": 0,
+        "top": 347.34144,
+        "zoom": null
+      },
+      "folio": "206"
+    },
+    "i:eq:decomposition-coefficients": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        16,
+        19
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 363,
+        "left": 0,
+        "top": 191.32143999999994,
+        "zoom": null
+      },
+      "folio": "343"
+    },
+    "i:eq:ext-definition": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        8,
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 162,
+        "left": 0,
+        "top": 216.90143999999998,
+        "zoom": null
+      },
+      "folio": "142"
+    },
+    "i:eq:ext-long-exact-first-variable": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        8,
+        8
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 164,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "144"
+    },
+    "i:eq:ext-long-exact-second-variable": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        8,
+        10
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 164,
+        "left": 0,
+        "top": 353.04143999999997,
+        "zoom": null
+      },
+      "folio": "144"
+    },
+    "i:eq:fractional-ideal-quotient": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        4,
+        15
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 90,
+        "left": 0,
+        "top": 594.3414399999999,
+        "zoom": null
+      },
+      "folio": "70"
+    },
+    "i:eq:galois-conjugate-representation": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        7,
+        16
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 146,
+        "left": 0,
+        "top": 504.71144,
+        "zoom": null
+      },
+      "folio": "126"
+    },
+    "i:eq:green-subgroup-families": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        20,
+        5
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 414,
+        "left": 0,
+        "top": 289.49143999999995,
+        "zoom": null
+      },
+      "folio": "394"
+    },
+    "i:eq:hom-field-extension": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        2,
+        40
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 50,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "30"
+    },
+    "i:eq:ideal-fibre-product": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        2,
+        12
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 38,
+        "left": 0,
+        "top": 533.56144,
+        "zoom": null
+      },
+      "folio": "18"
+    },
+    "i:eq:idele-group": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        31,
+        17
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 567,
+        "left": 0,
+        "top": 442.05143999999996,
+        "zoom": null
+      },
+      "folio": "547"
+    },
+    "i:eq:induced-character-cosets": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        10,
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 211,
+        "left": 0,
+        "top": 443.09144,
+        "zoom": null
+      },
+      "folio": "191"
+    },
+    "i:eq:inner-bimodule-derivation": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        25,
+        8
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 474,
+        "left": 0,
+        "top": 234.85143999999997,
+        "zoom": null
+      },
+      "folio": "454"
+    },
+    "i:eq:metacyclic-integral-fibre-product": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        34,
+        43
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 647,
+        "left": 0,
+        "top": 196.36144000000002,
+        "zoom": null
+      },
+      "folio": "627"
+    },
+    "i:eq:ordinary-brauer-decomposition": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        18,
+        19
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 386,
+        "left": 0,
+        "top": 457.40144,
+        "zoom": null
+      },
+      "folio": "366"
+    },
+    "i:eq:positive-at-ramified-real-primes": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        7,
+        47
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 158,
+        "left": 0,
+        "top": 105.53143999999998,
+        "zoom": null
+      },
+      "folio": "138"
+    },
+    "i:eq:projective-character-map": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        18,
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 380,
+        "left": 0,
+        "top": 512.03144,
+        "zoom": null
+      },
+      "folio": "360"
+    },
+    "i:eq:projective-resolution": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        8,
+        1
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 162,
+        "left": 0,
+        "top": 390.86143999999996,
+        "zoom": null
+      },
+      "folio": "142"
+    },
+    "i:eq:ramification-residue-degree": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        4,
+        10
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 84,
+        "left": 0,
+        "top": 282.40144,
+        "zoom": null
+      },
+      "folio": "64"
+    },
+    "i:eq:real-quaternion-reduced-norm-image": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        7,
+        44
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 158,
+        "left": 0,
+        "top": 271.24143999999995,
+        "zoom": null
+      },
+      "folio": "138"
+    },
+    "i:eq:reduced-norm-dieudonne-determinant": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        7,
+        42
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 157,
+        "left": 0,
+        "top": 259.60143999999997,
+        "zoom": null
+      },
+      "folio": "137"
+    },
+    "i:eq:simple-algebra-characteristic-reduced-power": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        7,
+        34
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 153,
+        "left": 0,
+        "top": 644.74144,
+        "zoom": null
+      },
+      "folio": "133"
+    },
+    "i:eq:tensor-direct-sums": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        2,
+        17
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 40,
+        "left": 0,
+        "top": 466.04143999999997,
+        "zoom": null
+      },
+      "folio": "20"
+    },
+    "i:eq:tensor-regular-module": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        2,
+        16
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 40,
+        "left": 0,
+        "top": 599.31144,
+        "zoom": null
+      },
+      "folio": "20"
+    },
+    "i:eq:transfer-coset-formula": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        13,
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 299,
+        "left": 0,
+        "top": 270.86143999999996,
+        "zoom": null
+      },
+      "folio": "279"
+    },
+    "i:eq:transfer-domain": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        13,
+        10
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 299,
+        "left": 0,
+        "top": 590.2014399999999,
+        "zoom": null
+      },
+      "folio": "279"
+    },
+    "i:eq:twisted-group-ring-module": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        28,
+        1
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 514,
+        "left": 0,
+        "top": 314.06143999999995,
+        "zoom": null
+      },
+      "folio": "494"
+    },
+    "i:eq:unramified-conjugate-lattice-decomposition": {
+      "kind": "numbered",
+      "family": "eq",
+      "number": [
+        33,
+        18
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 605,
+        "left": 0,
+        "top": 363.01144,
+        "zoom": null
+      },
+      "folio": "585"
+    },
+    "i:exc:abelian-integral-group-ring-torsion-units": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        9,
+        17
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 207,
+        "left": 0,
+        "top": 245.48143999999996,
+        "zoom": null
+      },
+      "folio": "187"
+    },
+    "i:exc:artin-embeddings-independent": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        7,
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 161,
+        "left": 0,
+        "top": 241.18143999999995,
+        "zoom": null
+      },
+      "folio": "141"
+    },
+    "i:exc:categorical-module-properties": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        3,
+        12
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 78,
+        "left": 0,
+        "top": 474.41143999999997,
+        "zoom": null
+      },
+      "folio": "58"
+    },
+    "i:exc:conjugate-idempotent-decompositions": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        6,
+        14
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 136,
+        "left": 0,
+        "top": 118.32143999999994,
+        "zoom": null
+      },
+      "folio": "116"
+    },
+    "i:exc:contragredient-tensor-product": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        10,
+        21
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 233,
+        "left": 0,
+        "top": 428.43143999999995,
+        "zoom": null
+      },
+      "folio": "213"
+    },
+    "i:exc:cyclic-prime-to-p-unramified-decomposition": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        21,
+        5
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 450,
+        "left": 0,
+        "top": 512.93144,
+        "zoom": null
+      },
+      "folio": "430"
+    },
+    "i:exc:cyclotomic-unit-reduction-norm": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        34,
+        4
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 653,
+        "left": 0,
+        "top": 577.06144,
+        "zoom": null
+      },
+      "folio": "633"
+    },
+    "i:exc:different-ramification-bound": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        4,
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 103,
+        "left": 0,
+        "top": 588.17144,
+        "zoom": null
+      },
+      "folio": "83"
+    },
+    "i:exc:doubly-transitive-character": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        10,
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 231,
+        "left": 0,
+        "top": 658.99144,
+        "zoom": null
+      },
+      "folio": "211"
+    },
+    "i:exc:dvr-maximal-order-lattice-isomorphism": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        26,
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 507,
+        "left": 0,
+        "top": 247.02143999999998,
+        "zoom": null
+      },
+      "folio": "487"
+    },
+    "i:exc:elementary-group-cartan-image": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        18,
+        7
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 393,
+        "left": 0,
+        "top": 549.77144,
+        "zoom": null
+      },
+      "folio": "373"
+    },
+    "i:exc:endomorphism-field-extension": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        2,
+        9
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 50,
+        "left": 0,
+        "top": 540.90144,
+        "zoom": null
+      },
+      "folio": "30"
+    },
+    "i:exc:equal-character-tables-dihedral-quaternion": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        9,
+        9
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 205,
+        "left": 0,
+        "top": 255.66143999999997,
+        "zoom": null
+      },
+      "folio": "185"
+    },
+    "i:exc:feit-thompson-character-vanishing": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        9,
+        15
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 207,
+        "left": 0,
+        "top": 594.86144,
+        "zoom": null
+      },
+      "folio": "187"
+    },
+    "i:exc:finite-field-extension-complement-descent": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        15,
+        7
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 352,
+        "left": 0,
+        "top": 108.29143999999997,
+        "zoom": null
+      },
+      "folio": "332"
+    },
+    "i:exc:finite-indecomposable-group-algebras": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        19,
+        1
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 412,
+        "left": 0,
+        "top": 310.97144,
+        "zoom": null
+      },
+      "folio": "392"
+    },
+    "i:exc:first-homology-abelianization": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        8,
+        1
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 180,
+        "left": 0,
+        "top": 646.23144,
+        "zoom": null
+      },
+      "folio": "160"
+    },
+    "i:exc:galois-conjugate-characters": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        9,
+        14
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 206,
+        "left": 0,
+        "top": 297.39144,
+        "zoom": null
+      },
+      "folio": "186"
+    },
+    "i:exc:genus-overorder-tensor-exchange": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        31,
+        10
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 581,
+        "left": 0,
+        "top": 594.86144,
+        "zoom": null
+      },
+      "folio": "561"
+    },
+    "i:exc:gluck-permutation-characters": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        10,
+        4
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 231,
+        "left": 0,
+        "top": 533.42144,
+        "zoom": null
+      },
+      "folio": "211"
+    },
+    "i:exc:grothendieck-group-ring-reduced": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        17,
+        4
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 376,
+        "left": 0,
+        "top": 359.61143999999996,
+        "zoom": null
+      },
+      "folio": "356"
+    },
+    "i:exc:hecke-index-homomorphism": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        11,
+        19
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 275,
+        "left": 0,
+        "top": 568.56144,
+        "zoom": null
+      },
+      "folio": "255"
+    },
+    "i:exc:idempotent-multiplicities": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        3,
+        10
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 77,
+        "left": 0,
+        "top": 152.56143999999995,
+        "zoom": null
+      },
+      "folio": "57"
+    },
+    "i:exc:induced-character-centralizer": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        10,
+        5
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 231,
+        "left": 0,
+        "top": 257.99143999999995,
+        "zoom": null
+      },
+      "folio": "211"
+    },
+    "i:exc:lattice-embedding-finite-free-order-module": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        23,
+        1
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 467,
+        "left": 0,
+        "top": 304.55143999999996,
+        "zoom": null
+      },
+      "folio": "447"
+    },
+    "i:exc:lattice-embeds-free": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        10,
+        26
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 234,
+        "left": 0,
+        "top": 557.00144,
+        "zoom": null
+      },
+      "folio": "214"
+    },
+    "i:exc:lattice-extension-projective-splits": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        10,
+        25
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 233,
+        "left": 0,
+        "top": 113.41143999999997,
+        "zoom": null
+      },
+      "folio": "213"
+    },
+    "i:exc:lattices-integral-base-change": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        23,
+        9
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 469,
+        "left": 0,
+        "top": 601.49144,
+        "zoom": null
+      },
+      "folio": "449"
+    },
+    "i:exc:matrix-algebra-reduced-norm-image": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        7,
+        5
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 160,
+        "left": 0,
+        "top": 228.71143999999998,
+        "zoom": null
+      },
+      "folio": "140"
+    },
+    "i:exc:noether-deuring": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        6,
+        6
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 135,
+        "left": 0,
+        "top": 658.99144,
+        "zoom": null
+      },
+      "folio": "115"
+    },
+    "i:exc:outer-tensor-ext-kunneth": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        25,
+        13
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 488,
+        "left": 0,
+        "top": 402.09144,
+        "zoom": null
+      },
+      "folio": "468"
+    },
+    "i:exc:permutation-character-orbits": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        10,
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 230,
+        "left": 0,
+        "top": 304.17143999999996,
+        "zoom": null
+      },
+      "folio": "210"
+    },
+    "i:exc:projective-degree-p-part-divisibility": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        18,
+        5
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 393,
+        "left": 0,
+        "top": 656.73144,
+        "zoom": null
+      },
+      "folio": "373"
+    },
+    "i:exc:pullback-kernel": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        2,
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 49,
+        "left": 0,
+        "top": 482.91143999999997,
+        "zoom": null
+      },
+      "folio": "29"
+    },
+    "i:exc:rational-cyclic-group-wedderburn": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        21,
+        1
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 449,
+        "left": 0,
+        "top": 145.22143999999992,
+        "zoom": null
+      },
+      "folio": "429"
+    },
+    "i:exc:rational-simple-modules-cyclic-subgroups": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        15,
+        4
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 352,
+        "left": 0,
+        "top": 549.80144,
+        "zoom": null
+      },
+      "folio": "332"
+    },
+    "i:exc:real-complex-norm-commutator-kernel": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        7,
+        7
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 160,
+        "left": 0,
+        "top": 164.58143999999993,
+        "zoom": null
+      },
+      "folio": "140"
+    },
+    "i:exc:regular-character-multiplicities": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        9,
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 205,
+        "left": 0,
+        "top": 658.99144,
+        "zoom": null
+      },
+      "folio": "185"
+    },
+    "i:exc:regular-inner-tensor-free": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        10,
+        18
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 233,
+        "left": 0,
+        "top": 601.94144,
+        "zoom": null
+      },
+      "folio": "213"
+    },
+    "i:exc:regular-inner-tensor-projective": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        10,
+        19
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 233,
+        "left": 0,
+        "top": 514.3614399999999,
+        "zoom": null
+      },
+      "folio": "213"
+    },
+    "i:exc:semisimple-isomorphic-idempotents-conjugate": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        6,
+        15
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 137,
+        "left": 0,
+        "top": 498.73143999999996,
+        "zoom": null
+      },
+      "folio": "117"
+    },
+    "i:exc:semisimple-scalar-extension-complement": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        15,
+        6
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 352,
+        "left": 0,
+        "top": 232.42143999999996,
+        "zoom": null
+      },
+      "folio": "332"
+    },
+    "i:exc:separable-trace-form": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        7,
+        6
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 160,
+        "left": 0,
+        "top": 217.07144,
+        "zoom": null
+      },
+      "folio": "140"
+    },
+    "i:exc:split-order-idempotent-lifting": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        6,
+        16
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 137,
+        "left": 0,
+        "top": 422.78144,
+        "zoom": null
+      },
+      "folio": "117"
+    },
+    "i:exc:tame-extension-trace-surjective": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        4,
+        13
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 103,
+        "left": 0,
+        "top": 361.79143999999997,
+        "zoom": null
+      },
+      "folio": "83"
+    },
+    "i:exc:tame-ramification-trace": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        4,
+        12
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 103,
+        "left": 0,
+        "top": 453.25143999999995,
+        "zoom": null
+      },
+      "folio": "83"
+    },
+    "i:exc:trace-surjective-galois-projective": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        4,
+        15
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 103,
+        "left": 0,
+        "top": 212.33144,
+        "zoom": null
+      },
+      "folio": "83"
+    },
+    "i:exc:twisted-galois-matrix-representation": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        28,
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 525,
+        "left": 0,
+        "top": 461.75143999999995,
+        "zoom": null
+      },
+      "folio": "505"
+    },
+    "i:exc:twisted-galois-reduced-norm": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        28,
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 525,
+        "left": 0,
+        "top": 304.72144,
+        "zoom": null
+      },
+      "folio": "505"
+    },
+    "i:exc:units-modulo-radical": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        5,
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 115,
+        "left": 0,
+        "top": 149.08143999999993,
+        "zoom": null
+      },
+      "folio": "95"
+    },
+    "i:exc:units-surject-quotient-local-base": {
+      "kind": "numbered",
+      "family": "exc",
+      "number": [
+        5,
+        12
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 117,
+        "left": 0,
+        "top": 258.92143999999996,
+        "zoom": null
+      },
+      "folio": "97"
+    },
+    "i:exm:associative-form-examples": {
+      "kind": "numbered",
+      "family": "exm",
+      "number": [
+        9,
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 181,
+        "left": 0,
+        "top": 222.20144,
+        "zoom": null
+      },
+      "folio": "161"
+    },
+    "i:exm:commutative-idele-class-group": {
+      "kind": "numbered",
+      "family": "exm",
+      "number": [
+        31,
+        24
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 571,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "551"
+    },
+    "i:exm:crossed-products-twisted-group-algebras": {
+      "kind": "numbered",
+      "family": "exm",
+      "number": [
+        8,
+        33
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 171,
+        "left": 0,
+        "top": 367.16143999999997,
+        "zoom": null
+      },
+      "folio": "151"
+    },
+    "i:exm:dihedral-group-algebra-reduced-norm": {
+      "kind": "numbered",
+      "family": "exm",
+      "number": [
+        7,
+        39
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 153,
+        "left": 0,
+        "top": 95.28143999999998,
+        "zoom": null
+      },
+      "folio": "133"
+    },
+    "i:exm:dihedral-group-characters": {
+      "kind": "numbered",
+      "family": "exm",
+      "number": [
+        10,
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 214,
+        "left": 0,
+        "top": 299.28144,
+        "zoom": null
+      },
+      "folio": "194"
+    },
+    "i:exm:dihedral-quaternion-presentations": {
+      "kind": "numbered",
+      "family": "exm",
+      "number": [
+        1,
+        24
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 30,
+        "left": 0,
+        "top": 413.33144,
+        "zoom": null
+      },
+      "folio": "10"
+    },
+    "i:exm:dihedral-twisted-group-ring": {
+      "kind": "numbered",
+      "family": "exm",
+      "number": [
+        28,
+        4
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 515,
+        "left": 0,
+        "top": 368.51144,
+        "zoom": null
+      },
+      "folio": "495"
+    },
+    "i:exm:galois-twisted-group-algebra": {
+      "kind": "numbered",
+      "family": "exm",
+      "number": [
+        28,
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 514,
+        "left": 0,
+        "top": 247.55143999999996,
+        "zoom": null
+      },
+      "folio": "494"
+    },
+    "i:exm:group-actions": {
+      "kind": "numbered",
+      "family": "exm",
+      "number": [
+        1,
+        21
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 29,
+        "left": 0,
+        "top": 555.2014399999999,
+        "zoom": null
+      },
+      "folio": "9"
+    },
+    "i:exm:quaternion-group-algebra-reduced-norm": {
+      "kind": "numbered",
+      "family": "exm",
+      "number": [
+        7,
+        40
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 155,
+        "left": 0,
+        "top": 362.22144,
+        "zoom": null
+      },
+      "folio": "135"
+    },
+    "i:exm:twisted-group-algebra-clifford-system": {
+      "kind": "unnumbered",
+      "family": "exm",
+      "number": null,
+      "suffix": "",
+      "name": "Example (b) following Definition (11.12)",
+      "destination": {
+        "page": 242,
+        "left": 0,
+        "top": 560.1855621337891,
+        "zoom": null
+      },
+      "folio": "222"
+    },
+    "i:lem:brauer-character-tensor-product": {
+      "kind": "numbered",
+      "family": "lem",
+      "number": [
+        17,
+        13
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 374,
+        "left": 0,
+        "top": 563.42144,
+        "zoom": null
+      },
+      "folio": "354"
+    },
+    "i:lem:ca-maximal-abelian-centralizers": {
+      "kind": "numbered",
+      "family": "lem",
+      "number": [
+        14,
+        15
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 314,
+        "left": 0,
+        "top": 547.55144,
+        "zoom": null
+      },
+      "folio": "294"
+    },
+    "i:lem:class-function-induction-product": {
+      "kind": "numbered",
+      "family": "lem",
+      "number": [
+        15,
+        5
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 335,
+        "left": 0,
+        "top": 144.01144,
+        "zoom": null
+      },
+      "folio": "315"
+    },
+    "i:lem:class-sums-center": {
+      "kind": "variant",
+      "family": "lem",
+      "number": [
+        3,
+        37
+      ],
+      "suffix": "a",
+      "name": null,
+      "destination": {
+        "page": 62,
+        "left": 0,
+        "top": 526.73144,
+        "zoom": null
+      },
+      "folio": "42"
+    },
+    "i:lem:conjugate-modules": {
+      "kind": "numbered",
+      "family": "lem",
+      "number": [
+        10,
+        12
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 216,
+        "left": 0,
+        "top": 512.06144,
+        "zoom": null
+      },
+      "folio": "196"
+    },
+    "i:lem:family-relative-projectivity-vertex": {
+      "kind": "numbered",
+      "family": "lem",
+      "number": [
+        20,
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 414,
+        "left": 0,
+        "top": 400.73143999999996,
+        "zoom": null
+      },
+      "folio": "394"
+    },
+    "i:lem:grothendieck-induction-product": {
+      "kind": "numbered",
+      "family": "lem",
+      "number": [
+        21,
+        14
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 441,
+        "left": 0,
+        "top": 325.06143999999995,
+        "zoom": null
+      },
+      "folio": "421"
+    },
+    "i:lem:group-ring-commutator-quotient-free": {
+      "kind": "numbered",
+      "family": "lem",
+      "number": [
+        32,
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 583,
+        "left": 0,
+        "top": 643.64144,
+        "zoom": null
+      },
+      "folio": "563"
+    },
+    "i:lem:hecke-primitive-idempotents": {
+      "kind": "numbered",
+      "family": "lem",
+      "number": [
+        11,
+        23
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 253,
+        "left": 0,
+        "top": 202.23144000000002,
+        "zoom": null
+      },
+      "folio": "233"
+    },
+    "i:lem:idempotent-corner-endomorphisms": {
+      "kind": "numbered",
+      "family": "lem",
+      "number": [
+        3,
+        19
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 55,
+        "left": 0,
+        "top": 169.54143999999997,
+        "zoom": null
+      },
+      "folio": "35"
+    },
+    "i:lem:induction-relative-splittings": {
+      "kind": "numbered",
+      "family": "lem",
+      "number": [
+        19,
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 396,
+        "left": 0,
+        "top": 176.39144,
+        "zoom": null
+      },
+      "folio": "376"
+    },
+    "i:lem:integer-function-ring-unit": {
+      "kind": "numbered",
+      "family": "lem",
+      "number": [
+        15,
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 338,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "318"
+    },
+    "i:lem:morita-generator-evaluation": {
+      "kind": "numbered",
+      "family": "lem",
+      "number": [
+        3,
+        49
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 67,
+        "left": 0,
+        "top": 165.11144000000002,
+        "zoom": null
+      },
+      "folio": "47"
+    },
+    "i:lem:nakayama": {
+      "kind": "numbered",
+      "family": "lem",
+      "number": [
+        5,
+        7
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 107,
+        "left": 0,
+        "top": 359.77144,
+        "zoom": null
+      },
+      "folio": "87"
+    },
+    "i:lem:schanuel": {
+      "kind": "numbered",
+      "family": "lem",
+      "number": [
+        2,
+        24
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 43,
+        "left": 0,
+        "top": 124.28143999999998,
+        "zoom": null
+      },
+      "folio": "23"
+    },
+    "i:lem:schur-multiplier-finiteness": {
+      "kind": "numbered",
+      "family": "lem",
+      "number": [
+        11,
+        38
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 266,
+        "left": 0,
+        "top": 285.24143999999995,
+        "zoom": null
+      },
+      "folio": "246"
+    },
+    "i:lem:separable-split-extension": {
+      "kind": "numbered",
+      "family": "lem",
+      "number": [
+        7,
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 138,
+        "left": 0,
+        "top": 573.68144,
+        "zoom": null
+      },
+      "folio": "118"
+    },
+    "i:par:eichler-condition": {
+      "kind": "unnumbered",
+      "family": "par",
+      "number": null,
+      "suffix": "",
+      "name": "Eichler condition",
+      "destination": {
+        "page": 622,
+        "left": 0,
+        "top": 430.16143999999997,
+        "zoom": null
+      },
+      "folio": "602"
+    },
+    "i:prop:algebra-character-orthogonality": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        9,
+        19
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 189,
+        "left": 0,
+        "top": 339.03144,
+        "zoom": null
+      },
+      "folio": "169"
+    },
+    "i:prop:artinian-and-finite-local-algebras-semilocal": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        5,
+        28
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 115,
+        "left": 0,
+        "top": 412.17143999999996,
+        "zoom": null
+      },
+      "folio": "95"
+    },
+    "i:prop:artinian-grothendieck-simple-basis": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        16,
+        6
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 357,
+        "left": 0,
+        "top": 457.88144,
+        "zoom": null
+      },
+      "folio": "337"
+    },
+    "i:prop:blichfeldt-imprimitivity": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        11,
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 236,
+        "left": 0,
+        "top": 465.57143999999994,
+        "zoom": null
+      },
+      "folio": "216"
+    },
+    "i:prop:block-diagonal-relative-projectivity": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        19,
+        17
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 404,
+        "left": 0,
+        "top": 599.39144,
+        "zoom": null
+      },
+      "folio": "384"
+    },
+    "i:prop:cartan-brauer-commutative-triangle": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        18,
+        5
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 380,
+        "left": 0,
+        "top": 236.69143999999994,
+        "zoom": null
+      },
+      "folio": "360"
+    },
+    "i:prop:cartan-triangle-injectivity-cokernel": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        18,
+        27
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 389,
+        "left": 0,
+        "top": 130.01144,
+        "zoom": null
+      },
+      "folio": "369"
+    },
+    "i:prop:central-character-values-integral": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        9,
+        31
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 198,
+        "left": 0,
+        "top": 596.61144,
+        "zoom": null
+      },
+      "folio": "178"
+    },
+    "i:prop:character-degree-divides-group-order": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        9,
+        32
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 198,
+        "left": 0,
+        "top": 537.55144,
+        "zoom": null
+      },
+      "folio": "178"
+    },
+    "i:prop:character-scalar-products-multiplicities": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        9,
+        24
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 194,
+        "left": 0,
+        "top": 380.98143999999996,
+        "zoom": null
+      },
+      "folio": "174"
+    },
+    "i:prop:class-function-orthonormal-basis": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        9,
+        23
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 193,
+        "left": 0,
+        "top": 206.63144,
+        "zoom": null
+      },
+      "folio": "173"
+    },
+    "i:prop:commutative-order-steinitz-invariants": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        34,
+        30
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 631,
+        "left": 0,
+        "top": 379.56143999999995,
+        "zoom": null
+      },
+      "folio": "611"
+    },
+    "i:prop:contragredient-hom-tensor": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        10,
+        30
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 225,
+        "left": 0,
+        "top": 479.25144,
+        "zoom": null
+      },
+      "folio": "205"
+    },
+    "i:prop:cyclic-normal-sylow-indecomposables": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        20,
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 420,
+        "left": 0,
+        "top": 381.15144,
+        "zoom": null
+      },
+      "folio": "400"
+    },
+    "i:prop:decomposition-brauer-character-square": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        17,
+        15
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 374,
+        "left": 0,
+        "top": 219.31143999999995,
+        "zoom": null
+      },
+      "folio": "354"
+    },
+    "i:prop:dedekind-domain-criteria": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        4,
+        6
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 83,
+        "left": 0,
+        "top": 533.89144,
+        "zoom": null
+      },
+      "folio": "63"
+    },
+    "i:prop:defect-zero-character-projective-simple": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        18,
+        28
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 390,
+        "left": 0,
+        "top": 467.56143999999995,
+        "zoom": null
+      },
+      "folio": "370"
+    },
+    "i:prop:exceptional-character-values": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        14,
+        19
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 316,
+        "left": 0,
+        "top": 152.31143999999995,
+        "zoom": null
+      },
+      "folio": "296"
+    },
+    "i:prop:finite-algebra-local-base-radical": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        5,
+        22
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 112,
+        "left": 0,
+        "top": 266.47144,
+        "zoom": null
+      },
+      "folio": "92"
+    },
+    "i:prop:first-second-character-orthogonality": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        9,
+        26
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 196,
+        "left": 0,
+        "top": 553.50144,
+        "zoom": null
+      },
+      "folio": "176"
+    },
+    "i:prop:frobenius-algebra-properties": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        9,
+        9
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 184,
+        "left": 0,
+        "top": 368.19143999999994,
+        "zoom": null
+      },
+      "folio": "164"
+    },
+    "i:prop:frobenius-group-characters": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        14,
+        4
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 308,
+        "left": 0,
+        "top": 188.36144000000002,
+        "zoom": null
+      },
+      "folio": "288"
+    },
+    "i:prop:frobenius-right-adjoint": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        10,
+        21
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 221,
+        "left": 0,
+        "top": 364.01144,
+        "zoom": null
+      },
+      "folio": "201"
+    },
+    "i:prop:galois-orbit-simple-module-extension": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        7,
+        18
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 147,
+        "left": 0,
+        "top": 596.2114399999999,
+        "zoom": null
+      },
+      "folio": "127"
+    },
+    "i:prop:genus-nonmaximal-primes": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        31,
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 560,
+        "left": 0,
+        "top": 169.76144,
+        "zoom": null
+      },
+      "folio": "540"
+    },
+    "i:prop:genus-schanuel": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        31,
+        8
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 563,
+        "left": 0,
+        "top": 390.36143999999996,
+        "zoom": null
+      },
+      "folio": "543"
+    },
+    "i:prop:genus-semilocal-isomorphism": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        31,
+        15
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 566,
+        "left": 0,
+        "top": 624.2114399999999,
+        "zoom": null
+      },
+      "folio": "546"
+    },
+    "i:prop:graded-clifford-theorem": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        11,
+        16
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 246,
+        "left": 0,
+        "top": 274.41143999999997,
+        "zoom": null
+      },
+      "folio": "226"
+    },
+    "i:prop:graded-frobenius-reciprocity": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        11,
+        13
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 243,
+        "left": 0,
+        "top": 420.27144,
+        "zoom": null
+      },
+      "folio": "223"
+    },
+    "i:prop:grothendieck-brauer-character-ring": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        17,
+        14
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 374,
+        "left": 0,
+        "top": 461.80143999999996,
+        "zoom": null
+      },
+      "folio": "354"
+    },
+    "i:prop:grothendieck-character-ring": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        16,
+        10
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 360,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "340"
+    },
+    "i:prop:grothendieck-scalar-extension-injections": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        16,
+        22
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 365,
+        "left": 0,
+        "top": 222.11143999999996,
+        "zoom": null
+      },
+      "folio": "345"
+    },
+    "i:prop:group-algebra-symmetric": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        9,
+        6
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 183,
+        "left": 0,
+        "top": 507.86143999999996,
+        "zoom": null
+      },
+      "folio": "163"
+    },
+    "i:prop:group-character-orthogonality-idempotents": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        9,
+        21
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 192,
+        "left": 0,
+        "top": 351.46144,
+        "zoom": null
+      },
+      "folio": "172"
+    },
+    "i:prop:group-ring-maximality": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        27,
+        1
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 508,
+        "left": 0,
+        "top": 109.95143999999993,
+        "zoom": null
+      },
+      "folio": "488"
+    },
+    "i:prop:hecke-character-multiplicity": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        11,
+        21
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 252,
+        "left": 0,
+        "top": 334.96144,
+        "zoom": null
+      },
+      "folio": "232"
+    },
+    "i:prop:hecke-standard-basis": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        11,
+        30
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 257,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "237"
+    },
+    "i:prop:hereditary-free-submodules": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        4,
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 82,
+        "left": 0,
+        "top": 616.41144,
+        "zoom": null
+      },
+      "folio": "62"
+    },
+    "i:prop:indecomposable-local-endomorphism-ring": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        6,
+        10
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 123,
+        "left": 0,
+        "top": 354.83144,
+        "zoom": null
+      },
+      "folio": "103"
+    },
+    "i:prop:induced-character-determinant-transfer": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        13,
+        15
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 301,
+        "left": 0,
+        "top": 515.17144,
+        "zoom": null
+      },
+      "folio": "281"
+    },
+    "i:prop:induced-module-criterion": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        10,
+        5
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 212,
+        "left": 0,
+        "top": 597.13144,
+        "zoom": null
+      },
+      "folio": "192"
+    },
+    "i:prop:injective-hulls-additive": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        6,
+        27
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 131,
+        "left": 0,
+        "top": 428.59144,
+        "zoom": null
+      },
+      "folio": "111"
+    },
+    "i:prop:invariant-character-extension": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        11,
+        45
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 272,
+        "left": 0,
+        "top": 561.72144,
+        "zoom": null
+      },
+      "folio": "252"
+    },
+    "i:prop:invariants-induction-hom": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        10,
+        31
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 225,
+        "left": 0,
+        "top": 120.77143999999998,
+        "zoom": null
+      },
+      "folio": "205"
+    },
+    "i:prop:invertible-bimodule-localization": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        35,
+        4
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 655,
+        "left": 0,
+        "top": 456.71144,
+        "zoom": null
+      },
+      "folio": "635"
+    },
+    "i:prop:irreducible-group-characters-independent": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        9,
+        20
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 190,
+        "left": 0,
+        "top": 361.14144,
+        "zoom": null
+      },
+      "folio": "170"
+    },
+    "i:prop:kilmoyer-central-idempotents": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        9,
+        17
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 188,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "168"
+    },
+    "i:prop:lattice-discriminant-index": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        4,
+        26
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 93,
+        "left": 0,
+        "top": 242.17143999999996,
+        "zoom": null
+      },
+      "folio": "73"
+    },
+    "i:prop:lattice-reduction-composition-factors": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        16,
+        16
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 362,
+        "left": 0,
+        "top": 384.26144,
+        "zoom": null
+      },
+      "folio": "342"
+    },
+    "i:prop:localization-completion-lattices": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        4,
+        21
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 92,
+        "left": 0,
+        "top": 622.79144,
+        "zoom": null
+      },
+      "folio": "72"
+    },
+    "i:prop:localization-criteria": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        4,
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 81,
+        "left": 0,
+        "top": 387.86143999999996,
+        "zoom": null
+      },
+      "folio": "61"
+    },
+    "i:prop:localized-module-finite-model": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        23,
+        13
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 463,
+        "left": 0,
+        "top": 149.65143999999998,
+        "zoom": null
+      },
+      "folio": "443"
+    },
+    "i:prop:minimal-polynomial-integrality": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        1,
+        8
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 23,
+        "left": 0,
+        "top": 150.57143999999994,
+        "zoom": null
+      },
+      "folio": "3"
+    },
+    "i:prop:module-isomorphism-completion": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        30,
+        17
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 546,
+        "left": 0,
+        "top": 459.83144,
+        "zoom": null
+      },
+      "folio": "526"
+    },
+    "i:prop:morita-summand-equivalence": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        6,
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 119,
+        "left": 0,
+        "top": 523.28144,
+        "zoom": null
+      },
+      "folio": "99"
+    },
+    "i:prop:multiplier-noncyclic-sylow": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        11,
+        46
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 272,
+        "left": 0,
+        "top": 398.43143999999995,
+        "zoom": null
+      },
+      "folio": "252"
+    },
+    "i:prop:normal-p-subgroup-brauer-kernel": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        17,
+        16
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 375,
+        "left": 0,
+        "top": 602.02144,
+        "zoom": null
+      },
+      "folio": "355"
+    },
+    "i:prop:normal-p-subgroup-radical-kernel": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        5,
+        26
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 115,
+        "left": 0,
+        "top": 643.64144,
+        "zoom": null
+      },
+      "folio": "95"
+    },
+    "i:prop:orbits-stabilizers": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        1,
+        20
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 28,
+        "left": 0,
+        "top": 164.52143999999998,
+        "zoom": null
+      },
+      "folio": "8"
+    },
+    "i:prop:order-endomorphism-cokernel": {
+      "kind": "variant",
+      "family": "prop",
+      "number": [
+        4,
+        20
+      ],
+      "suffix": "a",
+      "name": null,
+      "destination": {
+        "page": 91,
+        "left": 0,
+        "top": 506.78144,
+        "zoom": null
+      },
+      "folio": "71"
+    },
+    "i:prop:permutation-hecke-formulas": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        11,
+        34
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 261,
+        "left": 0,
+        "top": 156.18143999999995,
+        "zoom": null
+      },
+      "folio": "241"
+    },
+    "i:prop:prime-power-cyclotomic-ramification": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        4,
+        38
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 99,
+        "left": 0,
+        "top": 481.09144,
+        "zoom": null
+      },
+      "folio": "79"
+    },
+    "i:prop:projective-character-restriction-height": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        20,
+        16
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 424,
+        "left": 0,
+        "top": 195.93143999999995,
+        "zoom": null
+      },
+      "folio": "404"
+    },
+    "i:prop:projective-cover-summary": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        18,
+        1
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 378,
+        "left": 0,
+        "top": 539.1014399999999,
+        "zoom": null
+      },
+      "folio": "358"
+    },
+    "i:prop:projective-endomorphism-dual-tensor": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        29,
+        15
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 532,
+        "left": 0,
+        "top": 206.34143999999992,
+        "zoom": null
+      },
+      "folio": "512"
+    },
+    "i:prop:projective-is-flat": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        2,
+        28
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 46,
+        "left": 0,
+        "top": 630.03144,
+        "zoom": null
+      },
+      "folio": "26"
+    },
+    "i:prop:projective-isomorphism-modulo-radical": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        6,
+        6
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 121,
+        "left": 0,
+        "top": 439.93143999999995,
+        "zoom": null
+      },
+      "folio": "101"
+    },
+    "i:prop:projective-module-criteria": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        2,
+        22
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 43,
+        "left": 0,
+        "top": 379.83144,
+        "zoom": null
+      },
+      "folio": "23"
+    },
+    "i:prop:projectivity-localization": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        8,
+        19
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 167,
+        "left": 0,
+        "top": 103.99144000000001,
+        "zoom": null
+      },
+      "folio": "147"
+    },
+    "i:prop:radical-idempotent-corner": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        5,
+        13
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 109,
+        "left": 0,
+        "top": 542.69144,
+        "zoom": null
+      },
+      "folio": "89"
+    },
+    "i:prop:radical-matrix-ring": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        5,
+        14
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 109,
+        "left": 0,
+        "top": 115.95143999999993,
+        "zoom": null
+      },
+      "folio": "89"
+    },
+    "i:prop:relative-projectivity-properties": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        19,
+        5
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 398,
+        "left": 0,
+        "top": 444.87143999999995,
+        "zoom": null
+      },
+      "folio": "378"
+    },
+    "i:prop:ring-radical-quotients-and-modules": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        5,
+        6
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 107,
+        "left": 0,
+        "top": 571.5914399999999,
+        "zoom": null
+      },
+      "folio": "87"
+    },
+    "i:prop:sa-subgroup-special-classes": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        14,
+        17
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 314,
+        "left": 0,
+        "top": 344.14144,
+        "zoom": null
+      },
+      "folio": "294"
+    },
+    "i:prop:semilocal-module-radical": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        5,
+        29
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 115,
+        "left": 0,
+        "top": 300.52144,
+        "zoom": null
+      },
+      "folio": "95"
+    },
+    "i:prop:semiperfect-projective-class-basis": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        16,
+        7
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 358,
+        "left": 0,
+        "top": 422.16143999999997,
+        "zoom": null
+      },
+      "folio": "338"
+    },
+    "i:prop:split-short-exact-sequence": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        2,
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 31,
+        "left": 0,
+        "top": 252.54143999999997,
+        "zoom": null
+      },
+      "folio": "11"
+    },
+    "i:prop:splitting-field-criteria": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        7,
+        15
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 144,
+        "left": 0,
+        "top": 222.47143999999997,
+        "zoom": null
+      },
+      "folio": "124"
+    },
+    "i:prop:symmetric-exterior-tensors-as-invariants": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        12,
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 280,
+        "left": 0,
+        "top": 510.37144,
+        "zoom": null
+      },
+      "folio": "260"
+    },
+    "i:prop:symmetric-intertwining-invariant-properties": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        12,
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 286,
+        "left": 0,
+        "top": 622.79144,
+        "zoom": null
+      },
+      "folio": "266"
+    },
+    "i:prop:symmetric-projective-top-socle": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        9,
+        12
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 185,
+        "left": 0,
+        "top": 131.27143999999998,
+        "zoom": null
+      },
+      "folio": "165"
+    },
+    "i:prop:vertices-p-subgroups-source-conjugacy": {
+      "kind": "numbered",
+      "family": "prop",
+      "number": [
+        19,
+        13
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 401,
+        "left": 0,
+        "top": 349.02144,
+        "zoom": null
+      },
+      "folio": "381"
+    },
+    "i:rem:contragredient-actions": {
+      "kind": "numbered",
+      "family": "rem",
+      "number": [
+        10,
+        27
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 223,
+        "left": 0,
+        "top": 325.52144,
+        "zoom": null
+      },
+      "folio": "203"
+    },
+    "i:rem:ext-long-exact-sequence": {
+      "kind": "numbered",
+      "family": "rem",
+      "number": [
+        8,
+        9
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 164,
+        "left": 0,
+        "top": 587.8414399999999,
+        "zoom": null
+      },
+      "folio": "144"
+    },
+    "i:rem:ext-properties": {
+      "kind": "numbered",
+      "family": "rem",
+      "number": [
+        8,
+        4
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 162,
+        "left": 0,
+        "top": 136.79143999999997,
+        "zoom": null
+      },
+      "folio": "142"
+    },
+    "i:sec:artin-brauer-induction": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        15
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 333,
+        "left": 0,
+        "top": 566.7014399999999,
+        "zoom": null
+      },
+      "folio": "313"
+    },
+    "i:sec:background-algebras-groups": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        1
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 21,
+        "left": 0,
+        "top": 616.99144,
+        "zoom": null
+      },
+      "folio": "1"
+    },
+    "i:sec:brauer-characters": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        17
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 368,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "348"
+    },
+    "i:sec:cartan-brauer-triangle": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        18
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 377,
+        "left": 0,
+        "top": 598.8514399999999,
+        "zoom": null
+      },
+      "folio": "357"
+    },
+    "i:sec:clifford-theory-hecke-algebras": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 234,
+        "left": 0,
+        "top": 470.02144,
+        "zoom": null
+      },
+      "folio": "214"
+    },
+    "i:sec:decomposition-map": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        16
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 354,
+        "left": 0,
+        "top": 232.25143999999995,
+        "zoom": null
+      },
+      "folio": "334"
+    },
+    "i:sec:dedekind-domains": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        4
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 79,
+        "left": 0,
+        "top": 538.69144,
+        "zoom": null
+      },
+      "folio": "59"
+    },
+    "i:sec:genus": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        31
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 559,
+        "left": 0,
+        "top": 214.62143999999995,
+        "zoom": null
+      },
+      "folio": "539"
+    },
+    "i:sec:green-correspondence": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        20
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 413,
+        "left": 0,
+        "top": 452.52144,
+        "zoom": null
+      },
+      "folio": "393"
+    },
+    "i:sec:idempotents-krull-schmidt-projective-covers": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        6
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 118,
+        "left": 0,
+        "top": 500.78144,
+        "zoom": null
+      },
+      "folio": "98"
+    },
+    "i:sec:induced-modules": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        10
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 208,
+        "left": 0,
+        "top": 407.99143999999995,
+        "zoom": null
+      },
+      "folio": "188"
+    },
+    "i:sec:induction-arbitrary-fields": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        21
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 431,
+        "left": 0,
+        "top": 93.56143999999995,
+        "zoom": null
+      },
+      "folio": "411"
+    },
+    "i:sec:invertible-ideals": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        35
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 654,
+        "left": 0,
+        "top": 408.15144,
+        "zoom": null
+      },
+      "folio": "634"
+    },
+    "i:sec:jordan-zassenhaus": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        24
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 469,
+        "left": 0,
+        "top": 497.74144,
+        "zoom": null
+      },
+      "folio": "449"
+    },
+    "i:sec:lattices-orders": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        23
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 458,
+        "left": 0,
+        "top": 148.58143999999993,
+        "zoom": null
+      },
+      "folio": "438"
+    },
+    "i:sec:orthogonality-central-idempotents": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        9
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 181,
+        "left": 0,
+        "top": 512.1014399999999,
+        "zoom": null
+      },
+      "folio": "161"
+    },
+    "i:sec:radicals": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        5
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 104,
+        "left": 0,
+        "top": 515.05144,
+        "zoom": null
+      },
+      "folio": "84"
+    },
+    "i:sec:semisimple-rings-modules": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 51,
+        "left": 0,
+        "top": 166.15143999999998,
+        "zoom": null
+      },
+      "folio": "31"
+    },
+    "i:sec:separable-algebras-splitting-fields": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        7
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 137,
+        "left": 0,
+        "top": 218.90143999999998,
+        "zoom": null
+      },
+      "folio": "117"
+    },
+    "i:sec:special-classes-exceptional-characters": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        14
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 305,
+        "left": 0,
+        "top": 213.86143999999996,
+        "zoom": null
+      },
+      "folio": "285"
+    },
+    "i:sec:vertices-sources": {
+      "kind": "numbered",
+      "family": "sec",
+      "number": [
+        19
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 395,
+        "left": 0,
+        "top": 324.14144,
+        "zoom": null
+      },
+      "folio": "375"
+    },
+    "i:ss:a5-exceptional-characters": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        14,
+        "D"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 322,
+        "left": 0,
+        "top": 595.15144,
+        "zoom": null
+      },
+      "folio": "302"
+    },
+    "i:ss:adams-operators-virtual-characters": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        12,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 280,
+        "left": 0,
+        "top": 205.42143999999996,
+        "zoom": null
+      },
+      "folio": "260"
+    },
+    "i:ss:algebras-integral-closure": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        1,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 21,
+        "left": 0,
+        "top": 597.91144,
+        "zoom": null
+      },
+      "folio": "1"
+    },
+    "i:ss:background-group-theory": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        1,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 25,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "5"
+    },
+    "i:ss:brauer-character-orthogonality": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        18,
+        "C"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 385,
+        "left": 0,
+        "top": 276.22144,
+        "zoom": null
+      },
+      "folio": "365"
+    },
+    "i:ss:brauer-suzuki-generalized-quaternion": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        14,
+        "E"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 324,
+        "left": 0,
+        "top": 558.0814399999999,
+        "zoom": null
+      },
+      "folio": "304"
+    },
+    "i:ss:cartan-brauer-general-case": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        21,
+        "C"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 442,
+        "left": 0,
+        "top": 456.86143999999996,
+        "zoom": null
+      },
+      "folio": "422"
+    },
+    "i:ss:cartan-map-triangle": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        18,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 377,
+        "left": 0,
+        "top": 285.84144,
+        "zoom": null
+      },
+      "folio": "357"
+    },
+    "i:ss:categories-functors": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        2,
+        "C"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 41,
+        "left": 0,
+        "top": 439.54143999999997,
+        "zoom": null
+      },
+      "folio": "21"
+    },
+    "i:ss:character-table": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        9,
+        "D"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 196,
+        "left": 0,
+        "top": 249.06143999999995,
+        "zoom": null
+      },
+      "folio": "176"
+    },
+    "i:ss:clifford-character-theory": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        11,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 237,
+        "left": 0,
+        "top": 424.81143999999995,
+        "zoom": null
+      },
+      "folio": "217"
+    },
+    "i:ss:clifford-systems": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        11,
+        "C"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 241,
+        "left": 0,
+        "top": 440.82144,
+        "zoom": null
+      },
+      "folio": "221"
+    },
+    "i:ss:contragredient-modules": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        10,
+        "D"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 223,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "203"
+    },
+    "i:ss:cyclic-p-squared-lattices": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        34,
+        "C"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 632,
+        "left": 0,
+        "top": 115.49144000000001,
+        "zoom": null
+      },
+      "folio": "612"
+    },
+    "i:ss:cyclotomic-fields": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        4,
+        "H"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 97,
+        "left": 0,
+        "top": 428.86143999999996,
+        "zoom": null
+      },
+      "folio": "77"
+    },
+    "i:ss:dedekind-ideal-theory": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        4,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 82,
+        "left": 0,
+        "top": 382.50143999999995,
+        "zoom": null
+      },
+      "folio": "62"
+    },
+    "i:ss:dihedral-metacyclic-integral-representations": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        34,
+        "E"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 647,
+        "left": 0,
+        "top": 521.6114399999999,
+        "zoom": null
+      },
+      "folio": "627"
+    },
+    "i:ss:duals-lattices": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        4,
+        "E"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 92,
+        "left": 0,
+        "top": 238.95144,
+        "zoom": null
+      },
+      "folio": "72"
+    },
+    "i:ss:exceptional-characters-ca-groups": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        14,
+        "C"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 313,
+        "left": 0,
+        "top": 246.76144,
+        "zoom": null
+      },
+      "folio": "293"
+    },
+    "i:ss:ext-annihilator-higman-ideal": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        29,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 527,
+        "left": 0,
+        "top": 508.94143999999994,
+        "zoom": null
+      },
+      "folio": "507"
+    },
+    "i:ss:ext-tor": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        8,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 162,
+        "left": 0,
+        "top": 540.89144,
+        "zoom": null
+      },
+      "folio": "142"
+    },
+    "i:ss:extension-ground-ring-local-theory": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        30,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 549,
+        "left": 0,
+        "top": 205.39144,
+        "zoom": null
+      },
+      "folio": "529"
+    },
+    "i:ss:finite-group-character-orthogonality": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        9,
+        "C"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 189,
+        "left": 0,
+        "top": 182.71143999999993,
+        "zoom": null
+      },
+      "folio": "169"
+    },
+    "i:ss:finiteness-conditions": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        3,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 52,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "32"
+    },
+    "i:ss:frobenius-symmetric-algebras": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        9,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 181,
+        "left": 0,
+        "top": 293.18143999999995,
+        "zoom": null
+      },
+      "folio": "161"
+    },
+    "i:ss:genus-basic-properties": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        31,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 560,
+        "left": 0,
+        "top": 290.38144,
+        "zoom": null
+      },
+      "folio": "540"
+    },
+    "i:ss:green-correspondence": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        20,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 413,
+        "left": 0,
+        "top": 210.47143999999997,
+        "zoom": null
+      },
+      "folio": "393"
+    },
+    "i:ss:green-correspondence-character-applications": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        20,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 417,
+        "left": 0,
+        "top": 221.38144,
+        "zoom": null
+      },
+      "folio": "397"
+    },
+    "i:ss:grothendieck-groups": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        16,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 355,
+        "left": 0,
+        "top": 258.70144,
+        "zoom": null
+      },
+      "folio": "335"
+    },
+    "i:ss:hecke-algebras": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        11,
+        "D"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 252,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "232"
+    },
+    "i:ss:homomorphisms": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        2,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 31,
+        "left": 0,
+        "top": 544.46144,
+        "zoom": null
+      },
+      "folio": "11"
+    },
+    "i:ss:ideal-class-groups-global-fields": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        4,
+        "F"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 95,
+        "left": 0,
+        "top": 391.16143999999997,
+        "zoom": null
+      },
+      "folio": "75"
+    },
+    "i:ss:ideles-locally-free-class-groups": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        31,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 566,
+        "left": 0,
+        "top": 237.76144,
+        "zoom": null
+      },
+      "folio": "546"
+    },
+    "i:ss:idempotents": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        6,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 118,
+        "left": 0,
+        "top": 467.00144,
+        "zoom": null
+      },
+      "folio": "98"
+    },
+    "i:ss:indecomposable-lattice-vertices-sources": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        19,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 399,
+        "left": 0,
+        "top": 415.97144,
+        "zoom": null
+      },
+      "folio": "379"
+    },
+    "i:ss:induction-frobenius": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        10,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 208,
+        "left": 0,
+        "top": 249.19143999999994,
+        "zoom": null
+      },
+      "folio": "188"
+    },
+    "i:ss:induction-positive-characteristic": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        21,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 439,
+        "left": 0,
+        "top": 151.95143999999993,
+        "zoom": null
+      },
+      "folio": "419"
+    },
+    "i:ss:intertwining-number": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        10,
+        "C"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 221,
+        "left": 0,
+        "top": 441.56143999999995,
+        "zoom": null
+      },
+      "folio": "201"
+    },
+    "i:ss:krull-schmidt-azumaya": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        6,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 125,
+        "left": 0,
+        "top": 566.6114399999999,
+        "zoom": null
+      },
+      "folio": "105"
+    },
+    "i:ss:lattice-extension-isomorphism": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        34,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 617,
+        "left": 0,
+        "top": 328.95144,
+        "zoom": null
+      },
+      "folio": "597"
+    },
+    "i:ss:local-rings": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        5,
+        "C"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 111,
+        "left": 0,
+        "top": 146.02143999999998,
+        "zoom": null
+      },
+      "folio": "91"
+    },
+    "i:ss:localization": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        4,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 79,
+        "left": 0,
+        "top": 519.6114399999999,
+        "zoom": null
+      },
+      "folio": "59"
+    },
+    "i:ss:mackey-theorems": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        10,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 215,
+        "left": 0,
+        "top": 336.75143999999995,
+        "zoom": null
+      },
+      "folio": "195"
+    },
+    "i:ss:maximal-orders-hereditary": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        26,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 493,
+        "left": 0,
+        "top": 141.47143999999992,
+        "zoom": null
+      },
+      "folio": "473"
+    },
+    "i:ss:modular-brauer-characters": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        17,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 369,
+        "left": 0,
+        "top": 212.96143999999998,
+        "zoom": null
+      },
+      "folio": "349"
+    },
+    "i:ss:modular-splitting-fields": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        17,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 368,
+        "left": 0,
+        "top": 609.28144,
+        "zoom": null
+      },
+      "folio": "348"
+    },
+    "i:ss:modules-dedekind-domains": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        4,
+        "D"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 88,
+        "left": 0,
+        "top": 228.49143999999995,
+        "zoom": null
+      },
+      "folio": "68"
+    },
+    "i:ss:morita-theorems": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        3,
+        "D"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 64,
+        "left": 0,
+        "top": 422.64144,
+        "zoom": null
+      },
+      "folio": "44"
+    },
+    "i:ss:normal-p-complements-transfer": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        13,
+        "C"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 303,
+        "left": 0,
+        "top": 190.48144000000002,
+        "zoom": null
+      },
+      "folio": "283"
+    },
+    "i:ss:outer-tensor-products": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        10,
+        "E"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 226,
+        "left": 0,
+        "top": 297.53144,
+        "zoom": null
+      },
+      "folio": "206"
+    },
+    "i:ss:projective-covers": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        6,
+        "C"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 128,
+        "left": 0,
+        "top": 576.05144,
+        "zoom": null
+      },
+      "folio": "108"
+    },
+    "i:ss:projective-endomorphisms": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        29,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 532,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "512"
+    },
+    "i:ss:radicals-basic-definitions": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        5,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 104,
+        "left": 0,
+        "top": 495.97144,
+        "zoom": null
+      },
+      "folio": "84"
+    },
+    "i:ss:reduced-norms": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        7,
+        "D"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 151,
+        "left": 0,
+        "top": 452.40144,
+        "zoom": null
+      },
+      "folio": "131"
+    },
+    "i:ss:reduction-decomposition-map": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        16,
+        "C"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 360,
+        "left": 0,
+        "top": 444.94143999999994,
+        "zoom": null
+      },
+      "folio": "340"
+    },
+    "i:ss:relative-projectivity": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        19,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 395,
+        "left": 0,
+        "top": 178.96143999999993,
+        "zoom": null
+      },
+      "folio": "375"
+    },
+    "i:ss:separable-algebras-modules": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        7,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 137,
+        "left": 0,
+        "top": 128.19143999999994,
+        "zoom": null
+      },
+      "folio": "117"
+    },
+    "i:ss:splitting-fields": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        7,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 143,
+        "left": 0,
+        "top": 404.61143999999996,
+        "zoom": null
+      },
+      "folio": "123"
+    },
+    "i:ss:symmetric-skew-squares-induced-modules": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        12,
+        "C"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 285,
+        "left": 0,
+        "top": 585.67144,
+        "zoom": null
+      },
+      "folio": "265"
+    },
+    "i:ss:tensor-induction": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        13,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 295,
+        "left": 0,
+        "top": 225.28143999999998,
+        "zoom": null
+      },
+      "folio": "275"
+    },
+    "i:ss:tensor-products": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        2,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 38,
+        "left": 0,
+        "top": 295.09144,
+        "zoom": null
+      },
+      "folio": "18"
+    },
+    "i:ss:transfer-determinant-map": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        13,
+        "B"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 300,
+        "left": 0,
+        "top": 300.57144,
+        "zoom": null
+      },
+      "folio": "280"
+    },
+    "i:ss:valuations-completions": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        4,
+        "C"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 86,
+        "left": 0,
+        "top": 524.91144,
+        "zoom": null
+      },
+      "folio": "66"
+    },
+    "i:ss:witt-berman-induction": {
+      "kind": "numbered",
+      "family": "ss",
+      "number": [
+        21,
+        "A"
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 432,
+        "left": 0,
+        "top": 408.54143999999997,
+        "zoom": null
+      },
+      "folio": "412"
+    },
+    "i:term:decomposition-inertia-groups": {
+      "kind": "unnumbered",
+      "family": "term",
+      "number": null,
+      "suffix": "",
+      "name": "discussion of decomposition and inertia groups",
+      "destination": {
+        "page": 523,
+        "left": 0,
+        "top": 648.3714379882813,
+        "zoom": null
+      },
+      "folio": "503"
+    },
+    "i:term:hyper-elementary-groups": {
+      "kind": "unnumbered",
+      "family": "term",
+      "number": null,
+      "suffix": "",
+      "name": "definition of hyper-elementary groups",
+      "destination": {
+        "page": 336,
+        "left": 0,
+        "top": 103.89143999999999,
+        "zoom": null
+      },
+      "folio": "316"
+    },
+    "i:th:absolute-indecomposability-inseparable": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        30,
+        34
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 555,
+        "left": 0,
+        "top": 484.04143999999997,
+        "zoom": null
+      },
+      "folio": "535"
+    },
+    "i:th:absolute-indecomposability-residue-endomorphism": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        30,
+        29
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 553,
+        "left": 0,
+        "top": 438.74143999999995,
+        "zoom": null
+      },
+      "folio": "533"
+    },
+    "i:th:absolute-simplicity-centralizer": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        3,
+        43
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 64,
+        "left": 0,
+        "top": 630.03144,
+        "zoom": null
+      },
+      "folio": "44"
+    },
+    "i:th:artin-induction-explicit-coefficients": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        15,
+        4
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 334,
+        "left": 0,
+        "top": 518.29144,
+        "zoom": null
+      },
+      "folio": "314"
+    },
+    "i:th:brauer-character-orthogonality-relations": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        18,
+        23
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 386,
+        "left": 0,
+        "top": 137.77143999999998,
+        "zoom": null
+      },
+      "folio": "366"
+    },
+    "i:th:brauer-characters-class-function-basis": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        17,
+        9
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 372,
+        "left": 0,
+        "top": 400.05143999999996,
+        "zoom": null
+      },
+      "folio": "352"
+    },
+    "i:th:brauer-lift-virtual-character": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        18,
+        12
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 383,
+        "left": 0,
+        "top": 150.55143999999996,
+        "zoom": null
+      },
+      "folio": "363"
+    },
+    "i:th:brauer-permutation-lemma": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        11,
+        9
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 240,
+        "left": 0,
+        "top": 574.78144,
+        "zoom": null
+      },
+      "folio": "220"
+    },
+    "i:th:brauer-suzuki-generalized-quaternion": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        14,
+        23
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 324,
+        "left": 0,
+        "top": 250.54143999999997,
+        "zoom": null
+      },
+      "folio": "304"
+    },
+    "i:th:brauer-virtual-character-criterion": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        15,
+        15
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 339,
+        "left": 0,
+        "top": 123.44143999999994,
+        "zoom": null
+      },
+      "folio": "319"
+    },
+    "i:th:burnside-normal-p-complement": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        13,
+        20
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 304,
+        "left": 0,
+        "top": 555.73144,
+        "zoom": null
+      },
+      "folio": "284"
+    },
+    "i:th:cartan-map-cokernel-p-primary": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        21,
+        22
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 445,
+        "left": 0,
+        "top": 422.43143999999995,
+        "zoom": null
+      },
+      "folio": "425"
+    },
+    "i:th:clifford-projective-factorization": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        11,
+        20
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 250,
+        "left": 0,
+        "top": 339.92143999999996,
+        "zoom": null
+      },
+      "folio": "230"
+    },
+    "i:th:clifford-theorem": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        11,
+        1
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 234,
+        "left": 0,
+        "top": 227.42143999999996,
+        "zoom": null
+      },
+      "folio": "214"
+    },
+    "i:th:complete-ring-idempotent-decompositions": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        6,
+        8
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 122,
+        "left": 0,
+        "top": 180.95143999999993,
+        "zoom": null
+      },
+      "folio": "102"
+    },
+    "i:th:crossed-product-order-heredity": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        28,
+        12
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 524,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "504"
+    },
+    "i:th:cyclotomic-prime-factorization": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        4,
+        40
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 99,
+        "left": 0,
+        "top": 191.60144000000003,
+        "zoom": null
+      },
+      "folio": "79"
+    },
+    "i:th:division-algebra-maximal-order-valuation": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        26,
+        22
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 500,
+        "left": 0,
+        "top": 187.44143999999994,
+        "zoom": null
+      },
+      "folio": "480"
+    },
+    "i:th:dvr-maximal-orders-completion-lattices": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        26,
+        24
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 501,
+        "left": 0,
+        "top": 130.71143999999993,
+        "zoom": null
+      },
+      "folio": "481"
+    },
+    "i:th:dvr-projectivity-reduction": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        30,
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 542,
+        "left": 0,
+        "top": 584.94144,
+        "zoom": null
+      },
+      "folio": "522"
+    },
+    "i:th:ext-long-exact-sequence": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        8,
+        6
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 163,
+        "left": 0,
+        "top": 175.64144,
+        "zoom": null
+      },
+      "folio": "143"
+    },
+    "i:th:field-character-conjugacy-classes": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        21,
+        5
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 434,
+        "left": 0,
+        "top": 199.94143999999994,
+        "zoom": null
+      },
+      "folio": "414"
+    },
+    "i:th:frobenius-class-functions": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        10,
+        9
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 213,
+        "left": 0,
+        "top": 196.77143999999998,
+        "zoom": null
+      },
+      "folio": "193"
+    },
+    "i:th:frobenius-kernel": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        14,
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 306,
+        "left": 0,
+        "top": 254.60143999999997,
+        "zoom": null
+      },
+      "folio": "286"
+    },
+    "i:th:frobenius-reciprocity": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        10,
+        8
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 212,
+        "left": 0,
+        "top": 157.18143999999995,
+        "zoom": null
+      },
+      "folio": "192"
+    },
+    "i:th:frobenius-schur-matrix-coordinates": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        3,
+        41
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 63,
+        "left": 0,
+        "top": 440.67143999999996,
+        "zoom": null
+      },
+      "folio": "43"
+    },
+    "i:th:gallagher-character-vanishing": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        15,
+        19
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 341,
+        "left": 0,
+        "top": 438.38144,
+        "zoom": null
+      },
+      "folio": "321"
+    },
+    "i:th:gaschutz-relative-projectivity": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        19,
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 396,
+        "left": 0,
+        "top": 344.88144,
+        "zoom": null
+      },
+      "folio": "376"
+    },
+    "i:th:genus-idele-double-cosets": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        31,
+        18
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 568,
+        "left": 0,
+        "top": 408.53144,
+        "zoom": null
+      },
+      "folio": "548"
+    },
+    "i:th:graded-clifford-correspondence": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        11,
+        17
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 247,
+        "left": 0,
+        "top": 434.58144,
+        "zoom": null
+      },
+      "folio": "227"
+    },
+    "i:th:graded-inertia-indecomposable-induction": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        19,
+        20
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 408,
+        "left": 0,
+        "top": 282.47144,
+        "zoom": null
+      },
+      "folio": "388"
+    },
+    "i:th:green-character-zeros": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        19,
+        27
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 411,
+        "left": 0,
+        "top": 163.41143999999997,
+        "zoom": null
+      },
+      "folio": "391"
+    },
+    "i:th:green-correspondence": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        20,
+        6
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 414,
+        "left": 0,
+        "top": 213.84143999999998,
+        "zoom": null
+      },
+      "folio": "394"
+    },
+    "i:th:green-cyclic-sylow-character-values": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        20,
+        20
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 426,
+        "left": 0,
+        "top": 327.70144,
+        "zoom": null
+      },
+      "folio": "406"
+    },
+    "i:th:green-vertices-going-down": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        19,
+        15
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 402,
+        "left": 0,
+        "top": 475.31143999999995,
+        "zoom": null
+      },
+      "folio": "382"
+    },
+    "i:th:group-algebra-separable-radical-quotient": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        7,
+        10
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 142,
+        "left": 0,
+        "top": 636.54144,
+        "zoom": null
+      },
+      "folio": "122"
+    },
+    "i:th:hasse-schilling-maass-norm": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        7,
+        48
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 159,
+        "left": 0,
+        "top": 615.64144,
+        "zoom": null
+      },
+      "folio": "139"
+    },
+    "i:th:hecke-character-correspondence": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        11,
+        25
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 254,
+        "left": 0,
+        "top": 616.41144,
+        "zoom": null
+      },
+      "folio": "234"
+    },
+    "i:th:hecke-character-formulas": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        11,
+        32
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 259,
+        "left": 0,
+        "top": 604.98144,
+        "zoom": null
+      },
+      "folio": "239"
+    },
+    "i:th:heller-completion-krull-schmidt": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        30,
+        18
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 547,
+        "left": 0,
+        "top": 479.25144,
+        "zoom": null
+      },
+      "folio": "527"
+    },
+    "i:th:hereditary-orders-wedderburn-components": {
+      "kind": "variant",
+      "family": "th",
+      "number": [
+        26,
+        20
+      ],
+      "suffix": "a",
+      "name": null,
+      "destination": {
+        "page": 500,
+        "left": 0,
+        "top": 630.05144,
+        "zoom": null
+      },
+      "folio": "480"
+    },
+    "i:th:higman-projective-endomorphism-transfer": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        29,
+        18
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 534,
+        "left": 0,
+        "top": 362.73143999999996,
+        "zoom": null
+      },
+      "folio": "514"
+    },
+    "i:th:hom-tensor-adjointness": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        2,
+        19
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 40,
+        "left": 0,
+        "top": 278.85143999999997,
+        "zoom": null
+      },
+      "folio": "20"
+    },
+    "i:th:idele-lattice-multiplication": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        31,
+        19
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 568,
+        "left": 0,
+        "top": 106.31143999999995,
+        "zoom": null
+      },
+      "folio": "548"
+    },
+    "i:th:induced-character-irreducibility": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        10,
+        25
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 222,
+        "left": 0,
+        "top": 188.89144,
+        "zoom": null
+      },
+      "folio": "202"
+    },
+    "i:th:intertwining-number": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        10,
+        24
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 222,
+        "left": 0,
+        "top": 291.91143999999997,
+        "zoom": null
+      },
+      "folio": "202"
+    },
+    "i:th:invertible-module-locally-free": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        35,
+        5
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 655,
+        "left": 0,
+        "top": 252.78143999999998,
+        "zoom": null
+      },
+      "folio": "635"
+    },
+    "i:th:jacobinski-central-conductor": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        27,
+        13
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 512,
+        "left": 0,
+        "top": 565.21144,
+        "zoom": null
+      },
+      "folio": "492"
+    },
+    "i:th:jacobinski-conductor-formula": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        27,
+        8
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 510,
+        "left": 0,
+        "top": 399.22144,
+        "zoom": null
+      },
+      "folio": "490"
+    },
+    "i:th:jones-finite-type-completions": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        33,
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 596,
+        "left": 0,
+        "top": 223.36143999999996,
+        "zoom": null
+      },
+      "folio": "576"
+    },
+    "i:th:kronecker-weierstrass-matrix-pairs": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        34,
+        40
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 644,
+        "left": 0,
+        "top": 408.08144,
+        "zoom": null
+      },
+      "folio": "624"
+    },
+    "i:th:krull-schmidt-azumaya": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        6,
+        12
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 125,
+        "left": 0,
+        "top": 483.88144,
+        "zoom": null
+      },
+      "folio": "105"
+    },
+    "i:th:lifting-idempotents": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        6,
+        7
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 121,
+        "left": 0,
+        "top": 180.89144,
+        "zoom": null
+      },
+      "folio": "101"
+    },
+    "i:th:local-field-reduced-norm-surjective": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        7,
+        45
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 158,
+        "left": 0,
+        "top": 238.25143999999995,
+        "zoom": null
+      },
+      "folio": "138"
+    },
+    "i:th:local-hereditary-orders-block-form": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        26,
+        28
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 504,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "484"
+    },
+    "i:th:local-matrix-maximal-orders": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        26,
+        23
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 501,
+        "left": 0,
+        "top": 336.58144,
+        "zoom": null
+      },
+      "folio": "481"
+    },
+    "i:th:local-projective-group-lattice-cancellation": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        32,
+        1
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 582,
+        "left": 0,
+        "top": 209.14144,
+        "zoom": null
+      },
+      "folio": "562"
+    },
+    "i:th:mackey-induced-linear-character-squares": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        12,
+        17
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 290,
+        "left": 0,
+        "top": 333.36143999999996,
+        "zoom": null
+      },
+      "folio": "270"
+    },
+    "i:th:mackey-subgroup": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        10,
+        13
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 216,
+        "left": 0,
+        "top": 146.92143999999996,
+        "zoom": null
+      },
+      "folio": "196"
+    },
+    "i:th:mackey-tensor-product": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        10,
+        18
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 219,
+        "left": 0,
+        "top": 472.95143999999993,
+        "zoom": null
+      },
+      "folio": "199"
+    },
+    "i:th:maranda-lattice-isomorphism": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        30,
+        14
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 544,
+        "left": 0,
+        "top": 477.97144,
+        "zoom": null
+      },
+      "folio": "524"
+    },
+    "i:th:maschke": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        3,
+        14
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 54,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "34"
+    },
+    "i:th:maximal-order-ideal-factorization": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        26,
+        14
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 495,
+        "left": 0,
+        "top": 630.03144,
+        "zoom": null
+      },
+      "folio": "475"
+    },
+    "i:th:maximal-orders-are-hereditary": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        26,
+        12
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 494,
+        "left": 0,
+        "top": 437.06143999999995,
+        "zoom": null
+      },
+      "folio": "474"
+    },
+    "i:th:maximal-orders-wedderburn-components": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        26,
+        20
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 499,
+        "left": 0,
+        "top": 244.83144,
+        "zoom": null
+      },
+      "folio": "479"
+    },
+    "i:th:minimal-relative-projectivity-subgroup": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        19,
+        8
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 400,
+        "left": 0,
+        "top": 387.80143999999996,
+        "zoom": null
+      },
+      "folio": "380"
+    },
+    "i:th:modular-field-character-conjugacy-classes": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        21,
+        25
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 447,
+        "left": 0,
+        "top": 539.8414399999999,
+        "zoom": null
+      },
+      "folio": "427"
+    },
+    "i:th:morita": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        3,
+        54
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 68,
+        "left": 0,
+        "top": 148.36144000000002,
+        "zoom": null
+      },
+      "folio": "48"
+    },
+    "i:th:nakayama-matsushima": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        7,
+        49
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 159,
+        "left": 0,
+        "top": 449.65144,
+        "zoom": null
+      },
+      "folio": "139"
+    },
+    "i:th:nilpotent-group-monomial": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        11,
+        3
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 236,
+        "left": 0,
+        "top": 221.99143999999995,
+        "zoom": null
+      },
+      "folio": "216"
+    },
+    "i:th:order-contained-in-maximal-order": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        26,
+        5
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 491,
+        "left": 0,
+        "top": 358.60143999999997,
+        "zoom": null
+      },
+      "folio": "471"
+    },
+    "i:th:outer-tensor-separable": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        10,
+        38
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 229,
+        "left": 0,
+        "top": 604.88144,
+        "zoom": null
+      },
+      "folio": "209"
+    },
+    "i:th:p-group-algebra-local": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        5,
+        24
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 114,
+        "left": 0,
+        "top": 528.89144,
+        "zoom": null
+      },
+      "folio": "94"
+    },
+    "i:th:prime-cyclic-integral-lattice-classification": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        34,
+        31
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 632,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "612"
+    },
+    "i:th:projective-character-map-split-injection": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        21,
+        20
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 444,
+        "left": 0,
+        "top": 305.01144,
+        "zoom": null
+      },
+      "folio": "424"
+    },
+    "i:th:projective-characters-supported-p-regular": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        18,
+        26
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 388,
+        "left": 0,
+        "top": 323.68143999999995,
+        "zoom": null
+      },
+      "folio": "368"
+    },
+    "i:th:projective-class-reduction-isomorphism": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        18,
+        2
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 379,
+        "left": 0,
+        "top": 385.19143999999994,
+        "zoom": null
+      },
+      "folio": "359"
+    },
+    "i:th:projective-lattice-character-image": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        32,
+        16
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 590,
+        "left": 0,
+        "top": 420.31143999999995,
+        "zoom": null
+      },
+      "folio": "570"
+    },
+    "i:th:roiter-local-direct-summand": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        31,
+        32
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 575,
+        "left": 0,
+        "top": 105.62144,
+        "zoom": null
+      },
+      "folio": "555"
+    },
+    "i:th:schur-index-divides-group-order": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        27,
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 511,
+        "left": 0,
+        "top": 277.61143999999996,
+        "zoom": null
+      },
+      "folio": "491"
+    },
+    "i:th:schur-zassenhaus": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        8,
+        35
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 172,
+        "left": 0,
+        "top": 245.02143999999998,
+        "zoom": null
+      },
+      "folio": "152"
+    },
+    "i:th:semiperfect-projective-covers": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        6,
+        23
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 129,
+        "left": 0,
+        "top": 476.79143999999997,
+        "zoom": null
+      },
+      "folio": "109"
+    },
+    "i:th:separable-extension-radical-simples": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        7,
+        9
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 141,
+        "left": 0,
+        "top": 485.32143999999994,
+        "zoom": null
+      },
+      "folio": "121"
+    },
+    "i:th:skolem-noether": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        3,
+        62
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 76,
+        "left": 0,
+        "top": 589.17144,
+        "zoom": null
+      },
+      "folio": "56"
+    },
+    "i:th:solomon-permutation-induction": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        15,
+        10
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 337,
+        "left": 0,
+        "top": 481.26144,
+        "zoom": null
+      },
+      "folio": "317"
+    },
+    "i:th:split-group-algebra-dimensions": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        3,
+        37
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 62,
+        "left": 0,
+        "top": 659.13144,
+        "zoom": null
+      },
+      "folio": "42"
+    },
+    "i:th:steinitz": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        4,
+        13
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 89,
+        "left": 0,
+        "top": 342.66143999999997,
+        "zoom": null
+      },
+      "folio": "69"
+    },
+    "i:th:strong-approximation": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        4,
+        8
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 84,
+        "left": 0,
+        "top": 616.41144,
+        "zoom": null
+      },
+      "folio": "64"
+    },
+    "i:th:sufficiently-large-field-splits-group": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        17,
+        1
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 368,
+        "left": 0,
+        "top": 416.90144,
+        "zoom": null
+      },
+      "folio": "348"
+    },
+    "i:th:swan-projective-group-lattices-locally-free": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        32,
+        11
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 586,
+        "left": 0,
+        "top": 331.10143999999997,
+        "zoom": null
+      },
+      "folio": "566"
+    },
+    "i:th:tensor-simple-algebras": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        3,
+        60
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 74,
+        "left": 0,
+        "top": 242.37143999999995,
+        "zoom": null
+      },
+      "folio": "54"
+    },
+    "i:th:twisted-group-ring-heredity": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        28,
+        7
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 517,
+        "left": 0,
+        "top": 193.99144,
+        "zoom": null
+      },
+      "folio": "497"
+    },
+    "i:th:uniform-genus-class-number-bound": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        31,
+        34
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 578,
+        "left": 0,
+        "top": 355.45144,
+        "zoom": null
+      },
+      "folio": "558"
+    },
+    "i:th:vertices-going-up": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        19,
+        16
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 403,
+        "left": 0,
+        "top": 364.79143999999997,
+        "zoom": null
+      },
+      "folio": "383"
+    },
+    "i:th:vertices-induction-restriction": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        19,
+        14
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 401,
+        "left": 0,
+        "top": 116.40143999999998,
+        "zoom": null
+      },
+      "folio": "381"
+    },
+    "i:th:wang-platonov": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        7,
+        51
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 159,
+        "left": 0,
+        "top": 254.51144,
+        "zoom": null
+      },
+      "folio": "139"
+    },
+    "i:th:witt-berman-induction": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        21,
+        6
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 435,
+        "left": 0,
+        "top": 609.69144,
+        "zoom": null
+      },
+      "folio": "415"
+    },
+    "i:th:witt-berman-modular-grothendieck-induction": {
+      "kind": "numbered",
+      "family": "th",
+      "number": [
+        21,
+        15
+      ],
+      "suffix": "",
+      "name": null,
+      "destination": {
+        "page": 441,
+        "left": 0,
+        "top": 197.80143999999996,
+        "zoom": null
+      },
+      "folio": "421"
+    }
+  }
+}

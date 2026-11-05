@@ -1,0 +1,102 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Curtis–Reiner: PDF",
+      "dependsOrder": "sequence",
+      "dependsOn": [
+        "Curtis–Reiner: prepare export",
+        "Curtis–Reiner: export (Tinymist)",
+        "Curtis–Reiner: validate PDF"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Curtis–Reiner: prepare export",
+      "type": "process",
+      "command": "just",
+      "args": [
+        "editor-prepare"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Curtis–Reiner: export (Tinymist)",
+      "type": "typst",
+      "command": "export",
+      "export": {
+        "format": "pdf",
+        "inputPath": "${workspaceFolder}/content/main.typ",
+        "pdf.pdfTags": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Curtis–Reiner: validate PDF",
+      "type": "process",
+      "command": "just",
+      "args": [
+        "editor-finish"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Curtis–Reiner: check",
+      "type": "process",
+      "command": "just",
+      "args": [
+        "check"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Curtis–Reiner: lint",
+      "type": "process",
+      "command": "just",
+      "args": [
+        "lint"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Curtis–Reiner: corrections",
+      "type": "process",
+      "command": "just",
+      "args": [
+        "corrections"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Curtis–Reiner: format",
+      "type": "process",
+      "command": "just",
+      "args": [
+        "fmt"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    }
+  ]
+}
