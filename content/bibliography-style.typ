@@ -30,6 +30,13 @@
   }
   value.slice(position)
 }
+#let bib-section(body) = heading(
+  level: 2,
+  numbering: none,
+  outlined: false,
+  bookmarked: true,
+  text(size: 15pt, body),
+)
 #let bib-group(key) = {
   let entry = bibliography-data.at(key)
   let authors = entry.author.split(" and ")
