@@ -1021,7 +1021,9 @@
 #bib-item(tag: "71")[#bib-description("Zemanek1971")] <bib:Zemanek1971>
 #bib-item(tag: "73")[#bib-description("Zemanek1973")] <bib:Zemanek1973>
 
-#heading(level: 2, numbering: none, outlined: false)[Editorial references]
+#heading(level: 2, numbering: none, outlined: false, bookmarked: true)[
+  Editorial references
+]
 
 #bib-group("Borger2004")
 #bib-item(tag: "2004")[#bib-description("Borger2004")] <bib:Borger2004>
